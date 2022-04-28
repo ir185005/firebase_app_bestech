@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548300492329",
+    "project_id": "fir-bestech-tutorial",
+    "storage_bucket": "fir-bestech-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548300492329:android:83dfc9597643012a061638",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app_bestech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548300492329-tf38dehd9ev4ohq0rn8tvg7rbtbeqku0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY4t1dIBwJ9o02a74z14zCnf7Elp4fJno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548300492329-tf38dehd9ev4ohq0rn8tvg7rbtbeqku0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
